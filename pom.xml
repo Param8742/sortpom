@@ -8,6 +8,9 @@
 
   
   <groupId>com.github.ekryd.sortpom</groupId>
+
+
+  
   <artifactId>sortpom-parent</artifactId>
   <version>3.3.1-SNAPSHOT</version>
   <packaging>pom</packaging>
